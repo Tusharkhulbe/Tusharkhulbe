@@ -22,13 +22,13 @@ I'm Tushar Khulbe, a passionate front-end developer with a love for crafting bea
 Here are some projects I've worked on:
 
 - [Project 1](https://tusharkhulbe.github.io/Moving-car-using-html-css-javascript/):Car game animation using html css and js.
-- [Project 2](link): Short description.
-- [Project 3](link): Short description.
+- [Project 2]( https://tusharkhulbe.github.io/Music-website-using-html-css-javascript/):Music Website using frontend.
+- [Project 3](link):Tic-Tac-Toe game using frontend.
 
 Feel free to explore my repositories for more!
 
 ## Get in Touch
 
-📫 You can reach out to me via [email](mailto: tushar2001khlb@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+📫 You can reach out to me via [email](mailto: tushar2001khlb@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tushar-khulbe-794908245).
 
 Let's build something awesome together! 😊
