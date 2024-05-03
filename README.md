@@ -23,7 +23,7 @@ Here are some projects I've worked on:
 
 - [Project 1](https://tusharkhulbe.github.io/Moving-car-using-html-css-javascript/):Car game animation using html css and js.
 - [Project 2]( https://tusharkhulbe.github.io/Music-website-using-html-css-javascript/):Music Website using frontend.
-- [Project 3](link):Tic-Tac-Toe game using frontend.
+- [Project 3]( https://tusharkhulbe.github.io/tic-tac-toe/):Tic-Tac-Toe game using frontend.
 
 Feel free to explore my repositories for more!
 
