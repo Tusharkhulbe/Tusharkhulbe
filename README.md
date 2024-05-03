@@ -21,7 +21,7 @@ I'm Tushar Khulbe, a passionate front-end developer with a love for crafting bea
 
 Here are some projects I've worked on:
 
-- [Project 1](link): Short description.
+- [Project 1](https://tusharkhulbe.github.io/Moving-car-using-html-css-javascript/):Car game animation using html css and js.
 - [Project 2](link): Short description.
 - [Project 3](link): Short description.
 
