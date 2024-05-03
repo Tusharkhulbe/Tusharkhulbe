@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Tushar Khulbe, a passionate front-end developer with a love for crafting beautiful and intuitive user interfaces. Welcome to my GitHub profile!
+I'm Tushar Khulbe, a passionate front-end developer with a love for crafting beautiful and intuitive user interfaces. Looking for a job!! Welcome to my GitHub profile!
 
 ## About Me
 
