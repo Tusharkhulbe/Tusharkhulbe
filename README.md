@@ -12,7 +12,7 @@ I'm Tushar Khulbe, a passionate front-end developer with a love for crafting bea
 
 ## Skills
 
-- **Languages:** HTML5, CSS3, JavaScript (ES6+),JAVA
+- **Languages:** HTML5, CSS3, JavaScript (ES6+),JAVA,DSA
 - **Frameworks/Libraries:** React.js, Next js
 - **Tools/Platforms:** Git, npm, Webpack, Babel
 
